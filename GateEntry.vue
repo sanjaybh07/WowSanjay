@@ -93,7 +93,7 @@
 <script>
 export default {
   data() {
-    return { switchVal: false };
+    return { switchVal: true };
   },
 };
 </script>
