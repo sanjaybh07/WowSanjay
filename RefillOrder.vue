@@ -20,11 +20,11 @@
       </div>
       <div>
         <v-avatar size="x-smaller" color="#FFEBFF"></v-avatar>
-        <span class="ms-1">GIT Qty</span>
+        <span class="ms-1">GIT Qty Older</span>
       </div>
       <div>
         <v-avatar size="x-smallest" color="#F8D8FE"></v-avatar>
-        <span class="ms-1">OOH Qty</span>
+        <span class="ms-1">OOH Qty Older</span>
       </div>
       <div>
         <v-avatar size="x-small" color="#D9E3F8"></v-avatar>
