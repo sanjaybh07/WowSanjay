@@ -1,20 +1,15 @@
 <template>
   <v-card class="mx-auto" elevation="10">
       <div class="pa-2 d-flex justify-space-between align-center">
-<<<<<<< HEAD
-        <v-icon>mdi-plus-circle-outline</v-icon>
-        <v-btn class="px-4" rounded="xl">Valid</v-btn>
-=======
         <v-icon>mdi-minus-circle-outline</v-icon>
         <v-btn class="px-5" rounded="xl">Valid</v-btn>
->>>>>>> bug-reports
       </div>
   </v-card>
   <v-row>
     <v-col v-for="n in 6" :key="n" cols="4">
       
       <v-sheet
-        rounded="xl"
+        rounded="xxl"
         elevation="2"
         border="lg"
         max-width="450"
@@ -43,7 +38,7 @@
                 <v-img height="30" src="@/assets/john.jpg" cover></v-img>
               </v-card>
               <span class="text-caption">Manager</span>
-              <span class="text-caption font-weight-bold">Arvind - 112244</span>
+              <span class="text-caption font-weight-black">Arvind - 112244</span>
             </div>
 
             <div class="d-flex flex-column align-center">
@@ -59,13 +54,13 @@
             <div class="d-flex flex-column align-center">
               <v-icon size="25" icon="mdi-calendar-month text-primary"></v-icon>
               <span class="text-caption">Year</span>
-              <span class="text-caption font-weight-bold">2022-23</span>
+              <span class="text-caption font-weight-dark">2022-23</span>
             </div>
 
             <div class="d-flex flex-column align-center">
               <v-icon size="25" icon="mdi-tag text-primary"></v-icon>
               <span class="text-caption">Discount Limit</span>
-              <span class="text-caption font-weight-bold">30,000</span>
+              <span class="text-caption font-weight-bolder">30,000</span>
             </div>
           </div>
           <v-sheet border="sm" class="pa-2 my-2" rounded="lg">
