@@ -4,7 +4,7 @@
 
     <v-dialog
       v-model="custSearchOn"
-      content-class="customDialog"
+      class="customDialog"
       width="500"
       transition="slide-x-transition"
       background="rgba(33, 33, 33, 0.50)"
