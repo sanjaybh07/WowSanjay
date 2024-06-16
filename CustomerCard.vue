@@ -1,7 +1,7 @@
 <template>
   <v-card class="mx-auto" elevation="10">
       <div class="pa-2 d-flex justify-space-between align-center">
-        <v-icon>mdi-plus-circle-outline</v-icon>
+        <v-icon>mdi-plus-circle</v-icon>
         <v-btn class="px-5" rounded="xl">Valid</v-btn>
       </div>
   </v-card>
