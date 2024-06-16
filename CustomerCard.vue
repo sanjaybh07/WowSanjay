@@ -10,7 +10,7 @@
       
       <v-sheet
         rounded="xl"
-        elevation="0"
+        elevation="1"
         border="lg"
         max-width="450"
         class="mt-10" 
