@@ -38,7 +38,7 @@
                 <v-img height="30" src="@/assets/john.jpg" cover></v-img>
               </v-card>
               <span class="text-caption">Manager</span>
-              <span class="text-caption font-weight-black">Arvind - 112244</span>
+              <span class="text-caption font-weight-large">Arvind - 112244</span>
             </div>
 
             <div class="d-flex flex-column align-center">
