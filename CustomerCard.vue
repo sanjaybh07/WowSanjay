@@ -38,7 +38,11 @@
                 <v-img height="30" src="@/assets/john.jpg" cover></v-img>
               </v-card>
               <span class="text-caption">Manager</span>
+<<<<<<< Updated upstream
               <span class="text-caption font-weight-large">Arvind - 112244</span>
+=======
+              <span class="text-caption font-weight-boldest">Arvind Swamy - 112244</span>
+>>>>>>> Stashed changes
             </div>
 
             <div class="d-flex flex-column align-center">
@@ -54,13 +58,13 @@
             <div class="d-flex flex-column align-center">
               <v-icon size="25" icon="mdi-calendar-month text-primary"></v-icon>
               <span class="text-caption">Year</span>
-              <span class="text-caption font-weight-dark">2022-23</span>
+              <span class="text-caption font-weight-bold">2022-23</span>
             </div>
 
             <div class="d-flex flex-column align-center">
               <v-icon size="25" icon="mdi-tag text-primary"></v-icon>
               <span class="text-caption">Discount Limit</span>
-              <span class="text-caption font-weight-bolder">30,000</span>
+              <span class="text-caption font-weight-bold">30,000</span>
             </div>
           </div>
           <v-sheet border="sm" class="pa-2 my-2" rounded="lg">
