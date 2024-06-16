@@ -1,7 +1,7 @@
 <template>
   <v-card
     rounded="xl"
-    max-width="500"
+    max-width="506"
     theme="dark"
     style="background-color: #5c7288"
   >
