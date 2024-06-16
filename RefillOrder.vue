@@ -15,15 +15,15 @@
         <span class="ms-1">Sell thru%</span>
       </div>
       <div>
-        <v-avatar size="x-large" color="#77ACFF"></v-avatar>
+        <v-avatar size="x-largest" color="#77ACFF"></v-avatar>
         <span class="ms-1">DOS</span>
       </div>
       <div>
-        <v-avatar size="x-small" color="#FFEBFF"></v-avatar>
+        <v-avatar size="x-smaller" color="#FFEBFF"></v-avatar>
         <span class="ms-1">GIT Qty</span>
       </div>
       <div>
-        <v-avatar size="x-small" color="#F8D8FE"></v-avatar>
+        <v-avatar size="x-smallest" color="#F8D8FE"></v-avatar>
         <span class="ms-1">OOH Qty</span>
       </div>
       <div>
